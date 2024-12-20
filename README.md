@@ -6,4 +6,5 @@ Dataset utilizado
 Instalação
 Clone o repositório para seu ambiente local:
 https://github.com/acrisandradee/Validacao-modelosdeclusterizacao-.git
+
 Tambem sendo possivel rodar pelo Google colab
