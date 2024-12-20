@@ -5,5 +5,5 @@ Dataset utilizado
 
 Instalação
 Clone o repositório para seu ambiente local:
-git clone https://github.com/seu-usuario/algoritmoIAparaclusterizacao.git
+https://github.com/acrisandradee/Validacao-modelosdeclusterizacao-.git
 Tambem sendo possivel rodar pelo Google colab
